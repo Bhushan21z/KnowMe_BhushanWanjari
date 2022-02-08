@@ -13,8 +13,6 @@ html {
 .navbar{
     width: 4vw;
     height: 100vh;
-    /* background-color:grey */
-    /* background-color: #333333; */
     background-color: black;
     position: absolute;
     position: sticky;
@@ -89,10 +87,7 @@ nav ul li img{
     margin-top: 5px;
     font-size: 0.5rem;
 }
-
-
 .main{
-    /* background-color: red; */
     background-color: #2f4454;
     background-image: url('picbg.jpg');
     background-size: cover;
@@ -120,12 +115,7 @@ nav ul li img{
     border-radius: 40px;
 }
 .intro{
-    /* height: 80vh; */
     width: 80vw;
-    /*display: flex;*/
-    /* background-color: blue; */
-    /*justify-content: center;*/
-    /* background-color: rgba(0, 0, 0, 0.5); */
     background-color: #2f4454;
     margin-left: 7vw;
     margin-top: 15vh;
@@ -144,7 +134,6 @@ nav ul li img{
     height: 80vh;
     width: 50vw;
     color: White;
-    /* background-color: green; */
     font-family: 'Play', sans-serif;
 }
 .box1{
@@ -214,7 +203,6 @@ nav ul li img{
     width: 20vw;
     background-image: url('picbg.jpg');
     background-size: cover;
-    /* background-color: greenyellow; */
 }
 .right img{
     height: 51vh;
@@ -229,16 +217,6 @@ nav ul li img{
     width: auto;
     transition: 1.5s;
 }
-/* .myskills{
-    height: 80vh;
-    width: 80vw;
-    background-color: #1F2833;
-    margin-top: 10vh;
-    margin-left: 7vw;
-    color: white;
-    border-radius: 30px;
-    font-family: 'Roboto', sans-serif;
-} */
 .myskills{
     height: 80vh;
     width: 80vw;
@@ -256,22 +234,7 @@ nav ul li img{
     border-radius: 30px;
     font-family: 'Roboto', sans-serif;
 }
-/* .myskillsani[data-scroll="in"]{
-    animation: skillsanimation 2s;
-}
-@keyframes skillsanimation{
-    0%{
-        height: 20vh;
-        width: 20vw;
-    }
-    100%{
-        height: 80vh;
-        width: 80vw;
-    }
-} */
 .heading{
-    /* font-family: 'Permanent Marker', cursive; */
-    /* font-family: 'Germania One', cursive; */
     font-family: 'Salsa', cursive;
     font-size: 1.4rem;
     text-align: center;
@@ -291,7 +254,6 @@ nav ul li img{
 .skill1{
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
     text-align: center;
 }
 .skill1[data-scroll="in"]{
@@ -314,7 +276,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 }
 .skill2[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -336,7 +297,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 }
 .skill3[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -358,7 +318,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 } 
 .skill4[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -380,7 +339,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 }
 .skill5[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -402,7 +360,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 }
 .skill6[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -424,7 +381,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 }
 .skill7[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -446,7 +402,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 }
 .skill8[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -468,7 +423,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 }
 .skill9[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -490,7 +444,6 @@ nav ul li img{
     text-align: center;
     height: 25vh;
     width: 13vw;
-    /* background-color: greenyellow; */
 }
 .skill10[data-scroll="in"]{
     animation: skillsanimation 1.5s;
@@ -521,7 +474,6 @@ nav ul li img{
 .myprojects{
     height: 153vh;
     width: 80vw;
-    /* background-color: blue; */
     background-color: #19222c;
     margin-top: 20vh;
     margin-left: 7vw;
@@ -547,7 +499,6 @@ nav ul li img{
     height: 25vh;
     width: 25vw;
     background-color: greenyellow;
-    /* border-radius: 20px; */
 }
 .p1{
     background-image: url('1.png');
@@ -650,7 +601,6 @@ nav ul li img{
     height: 70vh;
     width: 80vw;
     background-color: rgb(15, 17, 36);
-    /* background-color: #252934; */
     margin-top: 10vh;
     margin-left: 7vw; 
     margin-bottom: 10vh;
@@ -664,7 +614,6 @@ nav ul li img{
     width: 57vw;
 }
 .forms{
-    /* background-color: wheat; */
     display: flex;
     flex-direction: column;
     height: 30vh;
@@ -673,19 +622,6 @@ nav ul li img{
     margin-left: 15vw;
     margin-top: 3vh;
 }
- /* section:nth-of-type(5) input[type=text], section:nth-of-type(5) input[type=email], section:nth-of-type(5)
- textarea {
-    background: #1e242c;
-    border: 0;
-    box-sizing: border-box;
-    color: #fff;
-    display: block;
-    font-size: 12pt;
-    margin-bottom: 3px;
-    outline: none;
-    padding: 10px 15px;
-    width: 100%;
-} */
 .namec{
     background:#1e242c ;
     border: 0;
@@ -724,15 +660,12 @@ nav ul li img{
 .wats{
     height: 6vh;
     width: 6vh;
-    /* background-color: #66abeb; */
-    /* background:#1e242c ; */
     transition: 1s;
     text-align: center;
     border-radius: 5px;
 }
 .wats:hover{
     cursor: pointer;
-    /* background-color: rgb(0, 255, 255); */
     background-color: #265077;
     transition: 1s;
 }
@@ -761,12 +694,6 @@ background: #1e242c;
 		transform: scale(1, .025);
 	}
 }
-/* @media (prefers-reduced-motion: no-preference) {
-    .intro {
-      animation-name: wipe-enter;
-      animation-duration: 1.5s;
-    }
-  } */
 
   footer{
       height: 4vh;
@@ -777,7 +704,7 @@ background: #1e242c;
       text-align: center;
       color: white;
   }
-
+/* RESPONSIVE */
   @media screen and (max-width: 800px) {
 
     .container{
@@ -787,47 +714,27 @@ background: #1e242c;
     .navbar{
         width: 100vw;
         height: 2vh;
-        /* background-color:grey; */
-        /* background-color: #333333; */
-        background-color: black;
-        /* position: absolute; */
         position: absolute;
         display: flex;
     }
     #buttonfb{
-        background-image: url('ham.png');
-        background-size: cover;
         position: absolute;
         top: 2vh;
         left: 4vw;
-        cursor: pointer;
         width: 5vw;
         height: 5vw;
     }
     .main{
-        /* background-color: red; */
-        background-color: #2f4454;
-        background-image: url('picbg.jpg');
-        background-size: cover;
         width: 100vw;
         position: static;
         margin-top: 2vh;
     }
     .intro{
-        /* height: 80vh; */
         width: 90vw;
-        /*display: flex;*/
-        /* background-color: blue; */
-        /*justify-content: center;*/
-        /* background-color: rgba(0, 0, 0, 0.5); */
-        background-color: #2f4454;
-        /* margin-left: 7vw; */
         margin-top: 15vh;
         align-items: center;
-        border-radius: 30px;
     }
     .contentintro{
-        background-color: #2f4454;
         display: flex;
         flex-direction: column;
         margin-top: 10vh;
@@ -836,16 +743,11 @@ background: #1e242c;
          border-radius: 30px;
     }
     .left{
-        /* height: 80vh; */
         height: auto;
         width: 90vw;
-        color: White;
-        /* background-color: green; */
-        font-family: 'Play', sans-serif;
     }
     .box1{
         font-size: 0.4rem;
-        /* margin-left: 4vw; */
         margin-top: 2vh;
     }
     .i1{
@@ -888,10 +790,9 @@ background: #1e242c;
         width: 50vw;
         background-image: url('picbg.jpg');
         background-size: cover;
-        /* background-color: greenyellow; */
         margin-left: 20vw;
         margin-top: 8vh;
-        border-radius: 100px;
+        border-radius: 80px;
         margin-bottom: 4vh;
     }
     .right img{
@@ -932,26 +833,18 @@ background: #1e242c;
         margin-bottom: 5vh;
     }
     .heading{
-        /* font-family: 'Permanent Marker', cursive; */
-        /* font-family: 'Germania One', cursive; */
         font-family: 'Salsa', cursive;
         font-size: 0.7rem;
         text-align: center;
         padding-top: 0vh;
         text-decoration: underline;
     }
-    /* .contentskill1{
-        display: flex;
-        justify-content: space-around;
-        margin-top: 5vh;
-    }*/
     .contentskill2{
         margin-bottom: 3vh;
     } 
     .skill1{
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
         text-align: center;
     }
     .skill1 h1{
@@ -971,10 +864,6 @@ background: #1e242c;
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
-    }
-    .skill2[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
     }
     .skill2 h1{
         font-size: 0.2rem;
@@ -985,18 +874,14 @@ background: #1e242c;
         transition: 1s;
     }
     .skill2 img:hover{
-        height: 19vh;
-        width: 11vw;
+        height: 10vh;
+        width: 12vw;
         transition: 1s;
     }
      .skill3{
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
-    }
-    .skill3[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
     }
     .skill3 h1{
         font-size: 0.2rem;
@@ -1007,19 +892,15 @@ background: #1e242c;
         transition: 1s;
     }
     .skill3 img:hover{
-        height: 19vh;
-        width: 11vw;
+        height: 10vh;
+        width: 12vw;
         transition: 1s;
     }
     .skill4{
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
     } 
-    .skill4[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
-    }
     .skill4 h1{
         font-size: 0.2rem;
     }
@@ -1029,18 +910,14 @@ background: #1e242c;
         transition: 1s;
     }
     .skill4 img:hover{
-        height: 19vh;
-        width: 11vw;
+        height: 10vh;
+        width: 12vw;
         transition: 1s;
     }
     .skill5{
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
-    }
-    .skill5[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
     }
     .skill5 h1{
         font-size: 0.2rem;
@@ -1051,18 +928,14 @@ background: #1e242c;
         transition: 1s;
     }
     .skill5 img:hover{
-        height: 19vh;
-        width: 11vw;
+        height: 10vh;
+        width: 12vw;
         transition: 1s;
     }
     .skill6{
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
-    }
-    .skill6[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
     }
     .skill6 h1{
         font-size: 0.2rem;
@@ -1073,18 +946,14 @@ background: #1e242c;
         transition: 1s;
     }
     .skill6 img:hover{
-        height: 19vh;
-        width: 11vw;
+        height: 10vh;
+        width: 12vw;
         transition: 1s;
     }
     .skill7{
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
-    }
-    .skill7[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
     }
     .skill7 h1{
         content: 'NodeJs';
@@ -1104,10 +973,6 @@ background: #1e242c;
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
-    }
-    .skill8[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
     }
     .skill8 h1{
         font-size: 0.2rem;
@@ -1118,18 +983,14 @@ background: #1e242c;
         transition: 1s;
     }
     .skill8 img:hover{
-        height: 19vh;
-        width: 11vw;
+        height: 10vh;
+        width: 12vw;
         transition: 1s;
     }
     .skill9{
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
-    }
-    .skill9[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
     }
     .skill9 h1{
         font-size: 0.2rem;
@@ -1140,18 +1001,14 @@ background: #1e242c;
         transition: 1s;
     }
     .skill9 img:hover{
-        height: 19vh;
-        width: 11vw;
+        height: 10vh;
+        width: 12vw;
         transition: 1s;
     }
     .skill10{
         text-align: center;
         height: 14vh;
         width: 12vw;
-        /* background-color: greenyellow; */
-    }
-    .skill10[data-scroll="in"]{
-        animation: skillsanimation 1.5s;
     }
     .skill10 h1{
         font-size: 0.2rem;
@@ -1162,18 +1019,15 @@ background: #1e242c;
         transition: 1s;
     }
     .skill10 img:hover{
-        height: 19vh;
-        width: 11vw;
+        height: 10vh;
+        width: 12vw;
         transition: 1s;
     }
     /* /////// */
     .myprojects{
         height: auto;
         width: 94vw;
-        /* background-color: blue; */
-        background-color: #19222c;
         margin-top: 5vh;
-        /* margin-left: 7vw; */
         margin-left: 3vw;
         margin-bottom: 5vh;
         color: white;
@@ -1183,7 +1037,6 @@ background: #1e242c;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        /* margin-top: 52vh; */
         margin-top: 68vh;
         margin-left: 7vw;
     }
@@ -1209,29 +1062,6 @@ background: #1e242c;
         background-color: greenyellow;
         /* border-radius: 20px; */
     }
-    /* .p1{
-        background-image: url('1.png');
-        background-size: cover;
-    }
-    .p2{
-        background-image: url('2.png');
-        background-size: cover;
-    }
-    .p3{
-        background-image: url('3.png');
-        background-size: cover;
-    }
-    .p4{
-        background-image: url('4.png');
-        background-size: cover;
-    } */
-    /* .p6{
-        text-align: center;
-        color: black;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    } */
     .projecth{
         font-family: 'Roboto', sans-serif;
         font-size: 0.4rem;
@@ -1297,14 +1127,12 @@ background: #1e242c;
         width: 80vw;
     }
     .forms{
-        /* background-color: wheat; */
         display: flex;
         flex-direction: column;
         height: 30vh;
         width: 90vw;
         align-items: center;
         margin-left: 2vw;
-        /* margin-top: 3vh; */
     }
     .namec{
         background:#1e242c ;
@@ -1372,7 +1200,7 @@ background: #1e242c;
     }
     .logo{
         /* padding-top: 30px; */
-        margin-top: -12vh;
+        margin-top: -11vh;
         margin-left: 15vw;
         display: flex;
         width: 30vh;
