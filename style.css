@@ -201,7 +201,7 @@ nav ul li img{
 .right{
     height: 80vh;
     width: 20vw;
-    background-image: url('picbg.jpg');
+    background-image: url('picbg1.jpg');
     background-size: cover;
 }
 .right img{
@@ -788,11 +788,11 @@ background: #1e242c;
     .right{
         height: 25vh;
         width: 50vw;
-        background-image: url('picbg.jpg');
+        background-image: url('picbg1.jpg');
         background-size: cover;
         margin-left: 20vw;
         margin-top: 8vh;
-        border-radius: 90px;
+        border-radius: 80px;
         margin-bottom: 4vh;
     }
     .right img{
