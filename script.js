@@ -37,7 +37,7 @@ buttonfb.addEventListener('click', ()=>{
         open=1;
     }
     else if(open==0&&dy==360){
-        navbar.style.height="55vh";
+        navbar.style.height="53vh";
             navbar.style.transition="1s";
             navbar.style.backgroundColor="#265077";
             buttonfb.style.backgroundImage="url('cancelw.png')";
