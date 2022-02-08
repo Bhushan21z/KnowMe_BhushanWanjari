@@ -795,6 +795,9 @@ background: #1e242c;
         border-radius: 80px;
         margin-bottom: 4vh;
     }
+     .work2{
+        font-size: 0.4rem;
+    }
     .right img{
         height: 23vh;
         width: auto;
