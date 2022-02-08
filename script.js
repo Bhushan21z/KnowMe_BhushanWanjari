@@ -37,7 +37,7 @@ buttonfb.addEventListener('click', ()=>{
         open=1;
     }
     else if(open==0&&dy==360){
-        navbar.style.height="50vh";
+        navbar.style.height="55vh";
             navbar.style.transition="1s";
             navbar.style.backgroundColor="#265077";
             buttonfb.style.backgroundImage="url('cancelw.png')";
@@ -54,7 +54,7 @@ buttonfb.addEventListener('click', ()=>{
     }
     else if(open==1&&dy==360){
         navbar.style.height="2vh";
-        navbar.style.backgroundColor="grey";
+        navbar.style.backgroundColor="black";
         buttonfb.style.backgroundImage="url('ham.png')";
         navbar.style.flexDirection="row";
          jsid.style.flexDirection="row";
